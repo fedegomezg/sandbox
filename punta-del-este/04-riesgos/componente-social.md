@@ -3,10 +3,12 @@
 > Referido al fragmento 2: alianza con **Grupo FENIX** (trabajo con personas privadas de
 > libertad vía rugby, oficios y empleabilidad) para dotar de mano de obra al proyecto.
 >
-> **Advertencia de conocimiento:** no tengo información verificada sobre Grupo FENIX
-> (trayectoria, unidades donde opera, figura jurídica, resultados de colocación laboral).
-> Todo lo que sigue asume la descripción del usuario y debe revalidarse contra la realidad
-> de la organización. `[PENDIENTE — dato del usuario]`
+> **Actualización 2026-09-12:** la organización es **Fundación Fénix**
+> (`fundacionfenix.uy`), nacida en la cárcel de Las Rosas, Maldonado, en 2019, por
+> iniciativa del Club Lobos de Punta del Este. Perfil verificado en
+> `01-contexto/fenix-perfil.md`. Varias hipótesis de este documento quedaron confirmadas
+> por ese relevamiento — en particular, que ya operan talleres productivos con venta al
+> mercado y que ya hacen colocación laboral con empresas privadas.
 
 ---
 
@@ -86,12 +88,13 @@ imaginable, y es legítima.**
 ### 2.4 Subsidios e incentivos al empleo
 `[VERIFICAR — prioridad alta]` Uruguay tiene normativa de promoción del empleo de
 poblaciones vulnerables. Dos pistas a confirmar con abogado uruguayo:
-- **Ley N° 17.897** (2005, humanización y modernización del sistema carcelario): tengo
-  entendido que incluye una **exigencia de cupo de personas liberadas en obras contratadas
-  por el Estado**. `[CONFIANZA MEDIA-BAJA — VERIFICAR artículo, porcentaje y vigencia]`
-  **Si esto se confirma, cambia el negocio:** no sos un empleador buscando descuento, sos
-  **el único proveedor capaz de resolverle un requisito legal a cualquier contratista de
-  obra pública**. Eso es un foso, no un subsidio.
+- **Ley N° 17.897, art. 14 (2005) — ✅ CONFIRMADO.** En todas las licitaciones de obras y
+  servicios públicos los contratistas están obligados a emplear un mínimo del **5%** del
+  personal de peón/obrero entre **personas liberadas inscriptas en la Bolsa de Trabajo de
+  DINALI**, y el Poder Ejecutivo puede bonificar a quienes superen ese porcentaje. DINALI
+  emite constancia oficial (trámite publicado en gub.uy).
+  **Esto no es un subsidio: es un foso y un segundo mercado.** Análisis completo en
+  `01-contexto/ley-17897-art14.md`.
 - **Régimen de subsidios a la contratación de colectivos vulnerables** (existe legislación
   de promoción del empleo con subsidio parcial de salario). `[CONFIANZA BAJA sobre norma
   y parámetros vigentes — VERIFICAR]`
